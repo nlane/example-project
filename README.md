@@ -1,6 +1,6 @@
 # Example Project
 
-## Git workflow
+## Git workflow!
 - `git checkout master`
 - `git pull`
 - `git checkout -b your-branch-name-here`
