@@ -8,3 +8,8 @@
 - `git push origin your-branch-name-here`
 - Go to this repo on github.com and open a PR
 - Once the PR is approved and merged, start from the beginning of the workflow
+
+
+## If you are merging changes from master to your branch
+- `git checkout [your-branch-name]`
+- `git merge master`
